@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23c23d5e-1f99-4c17-a7ca-b165f1ece4d0" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> bugfix13
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/src/test/java/TestHelloWorld.java" afterPath="$PROJECT_DIR$/test/src/test/java/TestHelloWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/test/target/" />
@@ -34,8 +38,13 @@
       <file leaf-file-name="TestHelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/src/test/java/TestHelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="225">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+=======
+            <state relative-caret-position="125">
+              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+>>>>>>> bugfix13
               <folding />
             </state>
           </provider>
@@ -571,6 +580,7 @@
         <state relative-caret-position="125">
           <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
           <folding />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -589,6 +599,8 @@
             <element signature="e#113#114#0" expanded="true" />
             <element signature="e#163#164#0" expanded="true" />
           </folding>
+=======
+>>>>>>> bugfix13
         </state>
       </provider>
     </entry>
